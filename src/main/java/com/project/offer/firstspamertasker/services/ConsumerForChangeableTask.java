@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 
+
 @Service
 public class ConsumerForChangeableTask {
 

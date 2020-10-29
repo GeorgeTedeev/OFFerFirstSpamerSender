@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.project.offer</groupId>
-    <artifactId>firstspamertasker</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>firstSpamerTasker</name>
+    <artifactId>firstspamersender</artifactId>
+    <version>1.0</version>
+    <name>offer-FirstSpamerSender</name>
     <description>First spamer sender for offer</description>
 
     <properties>
